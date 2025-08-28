@@ -1,3 +1,4 @@
+<?php
 class Solution {
 
     /**
@@ -25,3 +26,5 @@ class Solution {
         return $count >= $n;
     }
 }
+
+?>

@@ -18,8 +18,7 @@ class Solution {
                 $pointer++;
             }
         }
-
-
+        
         return $pointer >= $ns;
     }
 }

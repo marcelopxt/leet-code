@@ -1,10 +1,6 @@
 <?php
 class Solution {
-
-    /**
-     * @param Integer[] $arr
-     * @return Boolean
-     */
+    
     function uniqueOccurrences($arr) {
         $uniqueValues = array_unique($arr);
         $countArr = array();
